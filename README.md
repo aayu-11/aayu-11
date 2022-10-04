@@ -1,9 +1,9 @@
 ### Hi there 👋
--🔭 I’m currently working on MERN full stack 
--🌱 I’m currently learning front end 
--👯 I’m looking to collaborate on web related projects
--🤔 I’m looking for help with open source projects
--💬 Ask me about to collaborate on JS & react related projects
+-🔭 I’m currently working on MERN full stack </br>
+-🌱 I’m currently learning front end </br>
+-👯 I’m looking to collaborate on web related projects </br>
+-🤔 I’m looking for help with open source projects </br>
+-💬 Ask me about to collaborate on JS & react related projects </br>
 -📫 How to reach me: ayushkumar.ak2409@gmail.com
 <!--
 **aayu-11/aayu-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
