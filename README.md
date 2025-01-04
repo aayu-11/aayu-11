@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
-<h3 align="left">Here is my leetcode stats : </h3>
+<a href="https://leetcode.com/u/aayu_1/" target="_blank">Here are my leetcode stats</a>
 
 ![Ayush Kumar's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/aayu_1?theme=dark&bgColor=282828)
 
