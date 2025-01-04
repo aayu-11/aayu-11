@@ -4,7 +4,6 @@
 
 ![Ayush Kumar's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/aayu_1?theme=dark&bgColor=282828)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayu-11&label=Profile%20views&color=0e75b6&style=flat" alt="aayu-11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayu-11" alt="aayu-11" /></a> </p>
 
